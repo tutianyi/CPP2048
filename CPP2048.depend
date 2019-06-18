@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1560761456 source:d:\c\cpp2048\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"CBoard.h"
+
+1560757107 d:\c\cpp2048\include\cboard.h
+
+1560761643 source:d:\c\cpp2048\src\cboard.cpp
+	"CBoard.h"
+	"CLink.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1560761584 d:\c\cpp2048\include\clink.h
+
+1560761456 source:c:\users\tu\desktop\cpp2048\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"CBoard.h"
+
+1560757107 c:\users\tu\desktop\cpp2048\include\cboard.h
+
+1560768693 source:c:\users\tu\desktop\cpp2048\src\cboard.cpp
+	"CBoard.h"
+	"CLink.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1560761584 c:\users\tu\desktop\cpp2048\include\clink.h
+
+1560768349 source:c:\users\tu\desktop\cpp2048\src\clink.cpp
+	<stdlib.h>
+	<time.h>
+	"CLink.h"
+
