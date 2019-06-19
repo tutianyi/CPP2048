@@ -40,3 +40,26 @@
 	<time.h>
 	"CLink.h"
 
+1560911978 source:c:\users\administrator\desktop\tty\cpp2048\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"CBoard.h"
+
+1560913267 c:\users\administrator\desktop\tty\cpp2048\include\cboard.h
+
+1560911978 source:c:\users\administrator\desktop\tty\cpp2048\src\cboard.cpp
+	"CBoard.h"
+	"CLink.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1560913278 c:\users\administrator\desktop\tty\cpp2048\include\clink.h
+
+1560911978 source:c:\users\administrator\desktop\tty\cpp2048\src\clink.cpp
+	<stdlib.h>
+	<time.h>
+	"CLink.h"
+

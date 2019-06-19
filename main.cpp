@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    system("chcp 65001");
     int key1, key2, step=0, moved;
     CBoard board;
     board.StartGame();
@@ -30,7 +31,7 @@ int main()
         if(moved)
         {
             board.InsertANumber();
-            printf("ÒÆ¶¯²½Êý£º%d\n", ++step);
+            printf("Steps: %d\n", ++step);
             board.Output();
         }
     }
